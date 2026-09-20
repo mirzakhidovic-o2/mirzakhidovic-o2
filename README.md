@@ -77,8 +77,4 @@ Building and designing databases using **MongoDB** and relational database conce
 
 ---
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=default)
-
----
-
 ⭐ Feel free to explore my repositories and follow my journey in **Cybersecurity, AI, and Software Development**!
