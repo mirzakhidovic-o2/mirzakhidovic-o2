@@ -1,4 +1,4 @@
-# Hi there, I'm Mukhammadaziz Yuldoshboev 👋
+# Hi there, I'm Mukhammadaziz Yuldoshboev 
 
 I'm a **Master's Student in Convergence Software** at **Chungbuk National University, South Korea**, with a Bachelor's background in **Cyber Security**.
 
@@ -53,14 +53,14 @@ Building and designing databases using **MongoDB** and relational database conce
 
 ## 📚 Currently Learning
 
-- 🐍 Python
-- 🤖 Machine Learning & Deep Learning
-- 🧠 Artificial Intelligence
-- 🔐 Cybersecurity & Network Security
-- 📊 Big Data Analytics
-- 🗄️ Database Systems
-- 👁️ Computer Vision
-- 📝 Natural Language Processing
+-  Python
+-  Machine Learning & Deep Learning
+-  Artificial Intelligence
+-  Cybersecurity & Network Security
+-  Big Data Analytics
+-  Database Systems
+-  Computer Vision
+-  Natural Language Processing
 
 ---
 
@@ -76,10 +76,6 @@ Building and designing databases using **MongoDB** and relational database conce
 - Convergence Software
 
 ---
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=default)
 
