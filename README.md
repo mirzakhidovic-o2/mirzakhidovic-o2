@@ -38,6 +38,14 @@ Building and designing databases using **MongoDB** and relational database conce
 
 ---
 
+## 🚀 Projects
+
+- [**StudyFlow AI**](https://github.com/mirzakhidovic-o2/stydyflow-ai)
+
+  – A multilingual learning platform for courses, lesson progress, quizzes, final exams, and verifiable certificates.
+
+---
+
 ## 🎓 Education
 
 **Chungbuk National University — South Korea**  
