@@ -40,7 +40,7 @@ Building and designing databases using **MongoDB** and relational database conce
 
 ## 🚀 Projects
 
-- [**StudyFlow AI**]([stydyflow-ai](http://127.0.0.1:8000/app/))
+- [**StudyFlow AI**](https://github.com/aaronkr-2026-2/cbnu-soft-eng-software-engineering-project-group-19)
 
   – A multilingual learning platform for courses, lesson progress, quizzes, final exams, and verifiable certificates.
 
